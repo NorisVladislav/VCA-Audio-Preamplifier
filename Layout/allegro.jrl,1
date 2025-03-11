@@ -1,0 +1,54 @@
+\t (00:00:01) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Dec 30 19:25:38 2024
+\t (00:00:01)         Host=DESKTOP-CSIM69N User=Noris Pid=5484 CPUs=20
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 520
+\i (00:00:01) trapsize 529
+\i (00:00:01) trapsize 758
+\i (00:00:01) trapsize 765
+\i (00:00:01) trapsize 11053
+\i (00:00:02) generaledit 
+\i (00:00:05) open 
+\i (00:00:06) fillin "P3.brd"
+\t (00:00:06) Opening existing design...
+\i (00:00:09) fillin yes 
+\i (00:00:09) trapsize 2429
+\d (00:00:09) Design opened: C:/Users/Noris/Desktop/P1_2024_432B_Vladislav_Noris_Victor_PaCT_N2_CISLite/Layout/P3.brd
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 31.5746 29.0832
+\i (00:00:10) trapsize 4858
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 31.5746 29.0832
+\i (00:00:10) trapsize 9716
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 105.1767 29.0831
+\i (00:00:10) trapsize 19433
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -27.7447 24.3219
+\i (00:00:11) trapsize 9716
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 18.7001 21.4070
+\i (00:00:12) trapsize 4858
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 18.7001 21.4070
+\i (00:00:12) trapsize 2429
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 18.7001 21.4070
+\i (00:00:13) trapsize 4858
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 11.6071 38.3137
+\i (00:00:14) trapsize 2429
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Mon Dec 30 19:25:52 2024
