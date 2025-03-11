@@ -66,7 +66,7 @@ The goal is to design and implement a **voltage-controlled audio preamplifier** 
 
 ### Block Diagram of the Electrical Circuit  
 
-![Block Diagram](path/to/block-diagram.png)  
+![Block Diagram](images/aa.png)  
 
 ---
 
@@ -74,14 +74,16 @@ The goal is to design and implement a **voltage-controlled audio preamplifier** 
 
 ### Electrical Circuit Diagram  
 
-![Electrical Schematic](path/to/electrical-schematic.png)  
+![Electrical Schematic](images/SCHMA.png)  
+![Electrical Schematic](images/SCHMB.png) 
 
 ### Simulation of the Audio Preamplifier  
 
 - **Vcontrol = 0V → Gain = 1x (Buffer Mode)**  
 - **Vcontrol = 2V → Gain = 20x (Maximum Amplification)**  
 
-![Simulation Results](path/to/simulation.png)  
+![Simulation Results](images/SIMA.png)  
+![Simulation Results](images/SIMB.png)  
 
 ### Static Operating Points  
 
