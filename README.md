@@ -102,13 +102,7 @@ The goal is to design and implement a **voltage-controlled audio preamplifier** 
 
 ### Bill of Materials  
 
-| Component | Value | Quantity | Package |  
-|-----------|-------|----------|---------|  
-| Resistor  | 10kΩ  | 2        | 0603    |  
-| Capacitor | 100nF | 2        | 0805    |  
-| Op-Amp    | TL072 | 1        | SOIC-8  |  
-
----
+![BOM](images/BOM.png) 
 
 ## PCB Design using SMT Technology  
 
