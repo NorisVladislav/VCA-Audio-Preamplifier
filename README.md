@@ -28,7 +28,7 @@ This project aims to develop a compact VCA-based preamplifier capable of handlin
 
 The designed **audio frequency preamplifier with voltage control** has the following characteristics:
 
-- **Power Supply:** 12V single supply (VCC) or ±12V dual supply (VCC = +12V, VEE = -12V).
+- **Power Supply:** 12V single supply (VCC) 
 - **Input Signal:** Sinusoidal, amplitude between 0 and 20mV.
 - **Input Frequency:** 2 kHz.
 - **Control Voltage Range:** 0V to 2V.
