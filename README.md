@@ -13,7 +13,6 @@
 **Group:** 432B  
 **Supervisors:**  
 - Prof. Dr. Eng. Dragoș Dobrescu  
-- Lecturer Dr. Eng. Vladislav Noris-Victor  
 - Lecturer Dr. Eng. Mădălin Moise  
 
 ---
