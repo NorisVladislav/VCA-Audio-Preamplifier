@@ -92,7 +92,14 @@ The goal is to design and implement a **voltage-controlled audio preamplifier** 
 
 ### Analytical Calculation of PSF  
 
-(Include relevant calculations here)
+![Analytical PSF](images/31.png) 
+![Analytical PSF](images/30.png) 
+![Analytical PSF](images/33.png) 
+![Analytical PSF](images/32.png) 
+![Analytical PSF](images/34.png) 
+![Analytical PSF](images/35.png) 
+![Analytical PSF](images/36.png) 
+
 
 ### Bill of Materials  
 
