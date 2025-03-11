@@ -115,49 +115,49 @@ The goal is to design and implement a **voltage-controlled audio preamplifier** 
 
 ### Top and Bottom Layer Interconnection  
 
-![Top Layer](images/1.png)  
-![Bottom Layer](images/2.png)  
+![Top Layer](images/1.jpg)  
+![Bottom Layer](images/2.jpg)  
 
 ### Silkscreen, Solder Mask, and Stencil  
 
 - **Silkscreen Layer (SSTOP)**  
-  ![Silkscreen](images/3.png)  
+  ![Silkscreen](images/3.jpg)  
 
 - **Solder Mask Layer (SMTOP, SMBOT)**  
-  ![Solder Mask](images/4.png)
-  ![Solder Mask](images/6.png) 
+  ![Solder Mask](images/4.jpg)
+  ![Solder Mask](images/6.jpg) 
 
 - **Solder Paste Stencil (SPTOP)**  
-  ![Stencil](images/5.png)  
+  ![Stencil](images/5.jpg)  
 
 ### Drill and Cutting Layers  
 
 - **Drill Holes (DRILL)**  
-  ![Drill Layer](images/8.png)  
+  ![Drill Layer](images/8.jpg)  
 
 - **Cutting Layer (BO)**  
-  ![Cutting Layer](images/9.png)  
+  ![Cutting Layer](images/9.jpg)  
 
 ### Mechanical Layer (FAB)  
 
-![Mechanical Layer](images/7.png)  
+![Mechanical Layer](images/7.jpg)  
 
 ### Stacked
 
 - **TOP - SPTOP**
-  ![TOP SPTOP](images/10.png)
+  ![TOP SPTOP](images/10.jpg)
 
 - **TOP - SMTOP**
-  ![TOP SMTOP](images/11.png)
+  ![TOP SMTOP](images/11.jpg)
 
 - **TOP - BOT**
-  ![TOP BOT](images/13.png)
+  ![TOP BOT](images/13.jpg)
 
 - **SMTOP - SSTOP**
-  ![TOP SSTOP](images/12.png)
+  ![TOP SSTOP](images/12.jpg)
 
 - **TOP - DRILL**
-  ![TOP DRILL](images/14.png) 
+  ![TOP DRILL](images/14.jpg) 
 
 ---
 
