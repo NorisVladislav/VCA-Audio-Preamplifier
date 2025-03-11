@@ -7,8 +7,7 @@
 
 # Project 1  
 
-## Design and Implementation of an Audio Preamplifier  
-### with Voltage-Controlled Gain  
+## Design and Implementation of an Audio Preamplifier with Voltage-Controlled Gain  
 
 **Group:** 432B  
 **Supervisors:**  
